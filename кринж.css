@@ -1,0 +1,20 @@
+header {
+    background-image: url("5.jpg");
+    height: 100px;
+}
+body {
+    background-color: darkblue;
+}
+footer {
+    
+}
+p {
+    color: rgb(211, 219, 94);
+}
+h1{
+    text-align: center;
+    padding-top: 100px;
+}
+.r{
+    height: 300px;
+}
